@@ -1,0 +1,33 @@
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.deps.json
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.runtimeconfig.json
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.runtimeconfig.dev.json
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.dll
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.pdb
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.csprojResolveAssemblyReference.cache
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.csproj.CoreCompileInputs.cache
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.AssemblyInfoInputs.cache
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.AssemblyInfo.cs
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.dll
+C:\Users\denise\source\repos\GalwayUniversity\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.pdb
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.deps.json
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.runtimeconfig.json
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.runtimeconfig.dev.json
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.dll
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.pdb
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.csprojResolveAssemblyReference.cache
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.csproj.CoreCompileInputs.cache
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.AssemblyInfoInputs.cache
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.AssemblyInfo.cs
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.dll
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 2\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.pdb
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.deps.json
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.runtimeconfig.json
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.runtimeconfig.dev.json
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.dll
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\bin\Debug\netcoreapp2.0\GalwayUniversity.pdb
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.csprojResolveAssemblyReference.cache
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.csproj.CoreCompileInputs.cache
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.AssemblyInfoInputs.cache
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.AssemblyInfo.cs
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.dll
+C:\Users\denise\source\repos\GalwayUniversity - Tutorial 3\GalwayUniversity\obj\Debug\netcoreapp2.0\GalwayUniversity.pdb
